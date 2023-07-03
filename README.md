@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Medo9234
-- 👀 I’m interested in Full-Stack Department
+- 👀 I’m interested in Full-Stack Developer
 - 🌱 I’m currently learning in Mansoura University
 
 <!---
